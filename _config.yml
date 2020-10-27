@@ -2,9 +2,9 @@ title:              Clean Blog
 email:              subscriptmodule@gmail.com
 description:        A Blog Theme by Start Bootstrap
 author:             Start Bootstrap
-baseurl:            "/"
+baseurl:            "/index.html"
 url:                "https://startbootstrap.github.io"
-theme:              jekyll-theme-cayman
+theme:              jekyll-theme-clean-blog
 
 # Social Profiles
 twitter_username:   SBootstrap
